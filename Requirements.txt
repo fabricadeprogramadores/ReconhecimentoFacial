@@ -1,0 +1,12 @@
+
+1. Numpy versão 1.4
+2. opencv-python versão 3.4)
+3. os
+4. tkinter
+5. pathlib
+.
+Observação: use opencv-python versão 3.4 ou anterior
+      o código não funcionará na versão 4x ou mais.
+      por causa de alguns erros funcionais.
+
+
